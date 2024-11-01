@@ -1,0 +1,79 @@
+
+#jFlowSlide{	
+		
+		font-family: Verdana;
+		line-height:1.7;
+		text-align:justify;
+}
+
+#myController { 
+		font-family: Verdana; 
+		padding:2px 0; 
+		width:760px;		
+		margin-left:65px;		
+}
+#myController span.jFlowSelected {
+		background-color:#CCC;
+		 margin-right:0px;
+}
+
+.slide-wrapper { 
+		padding: 5px; 
+}
+.slide-thumbnail-container{
+		height:300px;
+		margin:20px 0 0 10px;
+		float:right;
+}
+.slide-thumbnail {
+		height:300px;
+		margin:15px 0 0 20px;
+}
+.slide-thumbnail img {
+		max-width:320px;
+		max-height:280px; 
+}
+.slide-details {
+		width:400px;
+		float:left;
+		margin:10px 0 0 0;
+}
+
+.slide-details  {
+		 margin-top:10px;
+		 height: 350px;
+		 width:400px;
+}
+
+.description {
+		 margin-top:10px;
+		 height: 160px;
+		 color:#A2A2A2;
+		 font-size:12px;
+		 word-wrap: break-word;
+}
+
+.jFlowControl, .jFlowPrev, .jFlowNext {
+		color:#000;
+		cursor:pointer;
+		padding-left:5px;
+		padding-right:5px;
+		padding-top:2px;
+		padding-bottom:2px;
+}
+.jFlowControl:hover, .jFlowPrev:hover, .jFlowNext:hover {  
+
+}
+.button_container{
+	height:80px;
+	width:300px;
+	float:left;
+}
+
+.btm_text{
+	font-size:10px;
+	text-align:justify;
+	color:#CCC;
+	margin-left:20px;
+}
+	
